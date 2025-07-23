@@ -1,12 +1,41 @@
-# React + Vite
+# 🎵 Music Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Music Application! This is a web-based music player where users can browse, play, and enjoy their favorite songs through an intuitive and responsive interface.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to try the live app](https://project-1714.web.app)
 
-## Expanding the ESLint configuration
+## 🛠️ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎧 Play, pause, and skip tracks
+- 🎼 Playlist support
+- 🔁 Loop and shuffle modes
+- 💡 Responsive UI for mobile and desktop
+- 🎨 Clean and modern design
+
+## 📂 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Framework/Library:** ReactJS
+- **Hosting:** Firebase, Cloudinary
+
+## 📸 Screenshots
+
+<img width="1898" height="859" alt="Screenshot 2025-07-23 214319" src="https://github.com/user-attachments/assets/f1aef961-87a5-4639-8457-bc77b13774b2" />
+<img width="1888" height="711" alt="Screenshot 2025-07-23 214239" src="https://github.com/user-attachments/assets/a23c0bac-949b-4adc-8f9a-3191127035d4" />
+
+
+## 📌 How to Run Locally
+
+```bash
+git clone https://github.com/Prasanna-17-hub/music-application.git
+
+# Navigate into the project directory
+cd Project
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
